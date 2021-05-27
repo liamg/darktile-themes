@@ -11,4 +11,4 @@ for theme in ./themes/*.yaml; do
 	echo -e "### ${name}\n\n![${name}](./screenshots/${image})\n\n" >> /tmp/readme
 done
 
-
+mv /tmp/readme ./README.md
