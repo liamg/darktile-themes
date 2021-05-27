@@ -6,7 +6,7 @@ First of all, install all of the themes to your duckterm config directory using:
 
 ```bash
 cd ~/.config/duckterm
-git clone https://github.com/liamg/duckterm-themes.git
+git clone git@github.com:liamg/duckterm-themes.git
 ```
 
 Then select the theme you want to use and create a symlink:
